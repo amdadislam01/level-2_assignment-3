@@ -6,7 +6,7 @@ A professional-grade PostgreSQL database design and implementation for a Footbal
 
 ##  Entity Relationship Diagram (ERD)
 
-The database schema manages three core entities: **Users**, **Matches**, and **Bookings**. Below is the visual representation of their relationships based on `football_ticket_booking_erd.drawio`.
+The database schema manages three core entities: **Users**, **Matches**, and **Bookings**. Below is the visual representation of their relationships based on.
 
 ```mermaid
 erDiagram
