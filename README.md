@@ -13,7 +13,7 @@ erDiagram
     Users {
         INT user_id PK
         VARCHAR full_name
-        VARCHAR email UNIQUE
+        VARCHAR email "UNIQUE"
         VARCHAR role
         VARCHAR phone_number
     }
